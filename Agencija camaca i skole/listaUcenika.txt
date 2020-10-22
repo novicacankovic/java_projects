@@ -1,0 +1,7 @@
+Novicina skola
+Mileve Maric 20
+1203987500321;Marko;Markovic;45;6;4.53;Sanja;Markovic;12.03.1987.;
+2502988890041;Novica;Cankovic;OP;1;5.0;Sole;Mio;25.02.1988.;
+1502963800015;Natasa;Popovic;I5;5;5.0;Jasmina;Jovanovic;11.02.1988.;
+1212990805805;Slavko;Slavic;I5;5;5.0;Sineo;Slavic;12.12.1990.;
+0607984500236;Maja;Vasic;V3;4;5.0;Sofija;Sofijic;25.02.1988.;
